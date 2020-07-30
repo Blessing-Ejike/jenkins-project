@@ -6,3 +6,4 @@ cd /home/ec2-user/java_codes
 javac HelloWorld.java
 java HelloWorld
 
+This is a sample
