@@ -1,0 +1,8 @@
+# jenkins-project
+#!/bin/bash
+
+cd /home/ec2-user/java_codes
+
+javac HelloWorld.java
+java HelloWorld
+
